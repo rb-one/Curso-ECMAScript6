@@ -215,7 +215,6 @@ class Calculator {
 
 const calc = new Calculator();
 console.log(calc.sum(2, 2));
-
 ```
 
 **modulos e imports**
