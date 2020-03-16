@@ -11,11 +11,11 @@
     - [Clase 3: LET y CONST, Multilínea, Spread Operator y Desestructuración](#clase-3-let-y-const-multil%c3%adnea-spread-operator-y-desestructuraci%c3%b3n)
     - [Clase 4 Arrow Functions, Promesas y Parámetros en objetos](#clase-4-arrow-functions-promesas-y-par%c3%a1metros-en-objetos)
     - [Clase 5: Clases, Modulos y Generadores](#clase-5-clases-modulos-y-generadores)
-    - [Clase 6 ¿Que se implemento en ES7?](#clase-6-%c2%bfque-se-implemento-en-es7)
-    - [Clase 7: ¿Que se implemento en ES8?](#clase-7-%c2%bfque-se-implemento-en-es8)
+    - [Clase 6 ¿Que se implemento en ES7?](#clase-6-que-se-implemento-en-es7)
+    - [Clase 7: ¿Que se implemento en ES8?](#clase-7-que-se-implemento-en-es8)
     - [clase 8 Async Await](#clase-8-async-await)
-    - [Clase 9¿Que se implemento en ES9?](#clase-9%c2%bfque-se-implemento-en-es9)
-    - [Clase 10 ¿Que se implemento en ES10?](#clase-10-%c2%bfque-se-implemento-en-es10)
+    - [Clase 9¿Que se implemento en ES9?](#clase-9-que-se-implemento-en-es9)
+    - [Clase 10 ¿Que se implemento en ES10?](#clase-10-que-se-implemento-en-es10)
     - [Clase 11: TC39 y Cierre del curso](#clase-11-tc39-y-cierre-del-curso)
 
 
@@ -376,10 +376,11 @@ const anotherFunction = async () => {
 
 anotherFunction()
 ```
-
+<div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
 
 ### Clase 9¿Que se implemento en ES9?
-
 
 **Operador de reposo**
 Es incorpora el operador de reposo permite extraer las propiedades de un objeto que aun no se ha construido
@@ -569,6 +570,12 @@ let mySymbl = `My Symbol`;
 let symbol = Symbol(mySymbl);
 console.log(symbol.description)
 ```
+
+<div align="right">
+  <small><a href="#tabla-de-contenido">🡡 volver al inicio</a></small>
+</div>
+
+
 
 ### Clase 11: TC39 y Cierre del curso
 
