@@ -536,6 +536,7 @@ let hello = 'hello world      ';
 console.log(hello.trimEnd())
 
 ```
+
 **Optional Catch Binding**
 
 ```
